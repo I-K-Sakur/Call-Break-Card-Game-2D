@@ -263,22 +263,6 @@ public class GameManager : MonoBehaviour
         //winnerOfRoundText.text = $"The Lead Suit is {_leadSuit}";
         _highestValue = -1;
         _leadSuit = Suit.None;
-        // if(_currentTrickPlays.Count ==0) return;
-        // var eligible = _currentTrickPlays.Where(t => t.card.type ==_leadSuit || t.card.type == Suit.Spade)
-        //     .OrderByDescending(t => t.score).ToList();
-        // var winner = eligible.First();
-        // var winnerPlayer = winner.player;
-        // //name checker
-        // if (!_roundScore.ContainsKey(winnerPlayer.PlayerName))
-        //     _roundScore[winnerPlayer.PlayerName] = 0;
-        // _roundScore[winnerPlayer.PlayerName] += 1;
-        // _currentTurn = players.IndexOf(winnerPlayer);
-        // _tricksPlayedThisRound++;
-        // _currentTrickPlays.Clear();
-        // winnerOfRoundText.text = $"The Lead Suit is {_leadSuit}";
-        // _highestValue = -1;
-        // _leadSuit = Suit.None;
-        // Debug.Log($"The winner of this trick is {winnerPlayer.PlayerName} = {_totalScore[winnerPlayer.PlayerName]}");
     }
 
     void EndRound()
