@@ -1,11 +1,11 @@
 # Deckmaster-Unite 
 Deckmaster-Unite
-DeckMasters Unite is my own card-based game combining classic playing cards with UNO-style action mechanics. In this gameplay video, I showcase how the game works, its UI, and the fast-paced strategy behind every move. Enjoy this quick look at one of my latest indie game projects!
+DeckMasters Unite is my own card-based game combining classic playing cards with UNO-style action mechanics. In this game, its UI, and the fast-paced strategy behind every move. Enjoy this quick look at one of my latest indie game projects! There are only bridge game available now.
 There are three types of Game:
--Bridge Game
--Uno Card Game
--Pokemon Card Game
-This video only covers the Call Bridge card game.
+  -Bridge Game
+  -Uno Card Game (Will add in the next Update)
+  -Pokemon Card Game (Will add in the next Update)
+
 
 ### Call-Break-Card-Game-2D
 Call Bridge
